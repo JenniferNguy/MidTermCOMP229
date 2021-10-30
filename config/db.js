@@ -1,3 +1,7 @@
+//Name: Nguyen Ha Phuong - 301147401
+//Date: 29-Oct-2021
+//Web App: Book List
+
 module.exports = {
     //"AtlasDB": ""
 

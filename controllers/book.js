@@ -1,8 +1,9 @@
-// create a reference to the model
-let Book = require('../models/book');
 //Name: Nguyen Ha Phuong - 301147401
 //Date: 29-Oct-2021
 //Web App: Book List
+
+// create a reference to the model
+let Book = require('../models/book');
 
 // Gets all books from the Database and renders the page to list all books.
 module.exports.bookList = function(req, res, next) {  
